@@ -1,0 +1,15 @@
+
+.button {
+    -fx-text-fill: #738598;
+    -fx-background-color: #eadea6;
+}
+
+#borderPaneRoot{
+    -fx-text-fill: #eadea6;
+    -fx-background-color:#738598;
+}
+
+
+#labels {
+    -fx-text-fill: #eadea6;
+}
